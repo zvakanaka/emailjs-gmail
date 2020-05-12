@@ -1,0 +1,23 @@
+{
+  "name": "emailjs-gmail",
+  "version": "0.0.1",
+  "description": "Send mail from a gmail account",
+  "main": "index.js",
+  "keywords": [
+    "emailjs",
+    "gmailjs",
+    "email",
+    "gmail",
+    "send"
+  ],
+  "author": "Adam Quinton",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zvakanaka/emailjs-gmail.git"
+  },
+  "homepage": "https://github.com/zvakanaka/emailjs-gmail#readme",
+  "dependencies": {
+    "emailjs": "^2.2.0"
+  }
+}
