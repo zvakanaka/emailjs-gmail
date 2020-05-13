@@ -1,6 +1,6 @@
 {
   "name": "emailjs-gmail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Send mail from a gmail account",
   "main": "index.js",
   "keywords": [
