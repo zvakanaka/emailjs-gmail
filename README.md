@@ -2,7 +2,7 @@ A wrapper for [emailjs](https://npmjs.com/package/emailjs)
 
 
 ## Install  
-`$ npm i --save emailjs-gmail`  
+`$ npm install --save emailjs-gmail`  
 
 ## Initialize
 ```javascript
@@ -10,7 +10,7 @@ A wrapper for [emailjs](https://npmjs.com/package/emailjs)
 const { send } = require('emailjs-gmail')(process.env.GMAIL_USERNAME, process.env.GMAIL_PASSWORD);
 ```
 
-
+> Note: Less secure app access must be [enabled](https://myaccount.google.com/lesssecureapps) for the Gmail account sending mail.
 
 ## Examples
 ### Simple
