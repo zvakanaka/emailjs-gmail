@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/zvakanaka/emailjs-gmail#readme",
   "dependencies": {
-    "emailjs": "^2.2.0"
+    "emailjs": "^3.4.0"
   }
 }
